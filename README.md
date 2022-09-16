@@ -1,1 +1,1 @@
-# Stock-Trend-Prediction---Web-Application-
+# Stock-Trend-Prediction
